@@ -1,0 +1,18 @@
+
+public class MethodTask {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+class Car{
+	
+}
+
+	}
+
+}
+
+//Create a class Car
+//➢has fields: brand, maxSpeed, color.
+//➢has setter and getter for each field
