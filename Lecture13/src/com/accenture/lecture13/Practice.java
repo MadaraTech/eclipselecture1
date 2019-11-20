@@ -1,10 +1,21 @@
 package com.accenture.lecture13;
 
 public class Practice {
+	
+	public static void printArray(int[] someArray) {
+		for (int myIncrementj = 0; myIncrementj < someArray.length; myIncrementj++) {
+			System.out.println(myIncrementj + " element is " + someArray[myIncrementj]);
+		
+	}
+	}
+	
+
 	static void sayHi() {
 		System.out.println("Hello World");
 
 	}
+	
+	
 
 	public static void main(String[] args) {
 
@@ -44,7 +55,9 @@ public class Practice {
 		// ...
 		// 9 element is 18
 		printArray(myArrays);
-
+		
+			
+			
 		// Task 2 - getSum() should return sum of all elements of passed array
 		// You should get printed out into console: Sum is 90
 		int sum = getSum(myArrays);
@@ -114,9 +127,7 @@ public class Practice {
 
 	}
 
-	public static void printArray(int[] someArray) {
-		// TODO should print out into console content of someArray
-	}
+	
 
 	public static int getSum(int[] someArray) {
 		// TODO implement method, that it will return sum of all elements of
