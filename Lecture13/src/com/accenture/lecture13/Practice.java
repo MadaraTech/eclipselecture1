@@ -33,7 +33,11 @@ public class Practice {
 		// 7 element is 14
 		// 8 element is 16
 		// 9 element is 18
+		for (int myIncrementj = 0; myIncrementj < myArrays.length; myIncrementj++) {
+			System.out.println(myIncrementj + " element is "
+					+ myArrays[myIncrementj]);
 
+		}
 		// Task 1.1 - printArray() should do the same logic as above code
 		// 0 element is 0
 		// 1 element is 2
