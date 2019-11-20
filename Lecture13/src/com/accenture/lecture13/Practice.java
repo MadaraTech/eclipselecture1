@@ -14,7 +14,19 @@ public class Practice {
 		System.out.println("Hello World");
 
 	}
+	public static int getSum(int[] someArray) {
+		
+		int sum = 0;
+
+		for (int i = 0; i < someArray.length; i++){
+			sum = sum + someArray[i];	
+		}
 	
+	
+			// TODO implement method, that it will return sum of all elements of
+		// passed in array 'someArray'
+		return sum;
+	}
 	
 
 	public static void main(String[] args) {
@@ -61,7 +73,8 @@ public class Practice {
 		// Task 2 - getSum() should return sum of all elements of passed array
 		// You should get printed out into console: Sum is 90
 		int sum = getSum(myArrays);
-		System.out.println("Sum is " + sum);
+
+				System.out.println("Sum is " + sum);
 
 		// Task 3 - getAvarege() should return average of all elements of passed
 		// array
@@ -92,7 +105,7 @@ public class Practice {
 		// 1 element is 6
 		// 2 element is 7
 		int[] myIntegers = getArrayDefinedByUser(3);
-		printArray(myIntegers);
+		//printArray(myIntegers);
 
 		// Task 6 - make sure getAvarege() and getAvaregeDouble() methods uses
 		// getSum() method
@@ -129,11 +142,7 @@ public class Practice {
 
 	
 
-	public static int getSum(int[] someArray) {
-		// TODO implement method, that it will return sum of all elements of
-		// passed in array 'someArray'
-		return 0;
-	}
+	
 
 	public static int getAvarege(int[] someArray) {
 		// TODO implement method, that it will return average of all elements of
