@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;j&apos; in &apos;com.accenture.lecture13.Practice.main(...)&apos; to &apos;myIncrementj&apos;&#x0A;- Original project: &apos;Lecture13&apos;&#x0A;- Original element: &apos;com.accenture.lecture13.Practice.main(String[]).j&apos;&#x0A;- Renamed element: &apos;j&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;j&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.accenture.lecture13{Practice.java[Practice~main~\[QString;@j!281!289!285!285!I!0!false" name="myIncrementj" references="true" stamp="1574273521534" version="1.0"/>
+</session>

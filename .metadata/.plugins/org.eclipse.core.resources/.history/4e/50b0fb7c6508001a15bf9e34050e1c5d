@@ -1,0 +1,16 @@
+
+public class StaticMethodTask {
+	public static int sum(int a, int b, int c){
+	return a + b + c;
+	}
+//String name;
+//static String king = AegonIV;
+//	/**
+
+	public static void main(String[] args) {
+int sum  = sum(1, 2, 3);
+System.out.append(sum)println(sum);
+
+	}
+
+}
