@@ -1,7 +1,5 @@
 package com.accenture.lecture15;
 
-import java.util.Arrays;
-
 public class ObjectPractice {
 
 	/**
@@ -23,16 +21,14 @@ public class ObjectPractice {
 				// Task 4 - Lets create few weather forecasts for following countries: Latvia,
 				// Antaliya, Bergen
 				// Example:
-				 Weather latvia = new Weather("Latvia", new int[]{-2, 0, 5, 2, 6, -1, 0});
-				 Weather antaliya = new Weather("Antaliya", new int[]{18, 21, 19, 15, 25, 20, 17});
-				 Weather bergen = new Weather("Bergen", new int[]{-3, 2, -10, 3, 1, -2, 0});
+				// Weather latvia = new Weather("Latvia", new int[]{-2, 0, 5, 2, 6, -1, 0});
 
 				// Task 5 - We should prohibit direct access to Weather object fields
 				// Make fields private
 				// Create getters for them
 				// Output: Latvia [-2, 0, 5, 2, 6, -1, 0]
-				 System.out.println(latvia.getCountry() + " "
-				 +Arrays.toString(latvia.getDaysWeather()));
+				// System.out.println(latvia.getCountry() + " "
+				// +Arrays.toString(latvia.getDaysWeather()));
 
 				// Task 6 - User should be able to get weather information in user-friendly way
 				// Create toString method in Weather class
