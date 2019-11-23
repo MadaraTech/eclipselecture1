@@ -18,7 +18,7 @@ public class Weather {
 		this.daysWeather = daysWeather;
 	}
 	public String toString(){
-		return "Weather forecast in " + this.country + " for next days" + Arrays.toString(this.getDaysWeather());
+		return "Weather forecats in " + this.country + "for next days" + Arrays.toString(this.DaysWeather()));
 	}
 }
 

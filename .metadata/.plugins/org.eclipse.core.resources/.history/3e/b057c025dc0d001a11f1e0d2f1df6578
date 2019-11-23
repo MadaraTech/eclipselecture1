@@ -1,7 +1,5 @@
 package com.accenture.lecture15;
 
-import java.util.Arrays;
-
 public class Weather {
 	private final String country;
 	private int[] daysWeather;
@@ -18,7 +16,7 @@ public class Weather {
 		this.daysWeather = daysWeather;
 	}
 	public String toString(){
-		return "Weather forecast in " + this.country + " for next days" + Arrays.toString(this.getDaysWeather());
+		return "Weather forecats in " + this.country + "for next days" + (latvia.getCountry());
 	}
 }
 
