@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;Lecture15&apos;&#x0A;- Original project: &apos;Lecture15&apos;&#x0A;- Original elements:&#x0A;     com.accenture.lecture15.ObjectPractice.java&#x0A;     com.accenture.lecture15.Weather.java" description="Delete elements" element1="/src&lt;com.accenture.lecture15{Weather.java" element2="/src&lt;com.accenture.lecture15{ObjectPractice.java" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1574502226048" subPackages="false" version="1.0"/>
+</session>
