@@ -31,212 +31,17 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
-<part id="22"/>
-<part id="23"/>
-<part id="24"/>
-<part id="25"/>
-<part id="26"/>
-<part id="27"/>
-<part id="28"/>
-<part id="29"/>
-<part id="30"/>
-<part id="31"/>
-<part id="32"/>
-<part id="33"/>
-<part id="34"/>
-<part id="35"/>
-<part id="36"/>
-<part id="37"/>
-<part id="38"/>
-<part id="39"/>
-<part id="40"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="L4.java" partName="L4.java" path="/home/student/workspace/Lecture4/src/L4.java" title="L4.java" tooltip="Lecture4/src/L4.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/L4.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="386" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectPractice.java" partName="ObjectPractice.java" path="/home/student/workspace/Lecture13/src/com/accenture/lecture15/ObjectPractice.java" title="ObjectPractice.java" tooltip="Lecture13/src/com/accenture/lecture15/ObjectPractice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture13/src/com/accenture/lecture15/ObjectPractice.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1187" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Casting.java" partName="Casting.java" path="/home/student/workspace/Lecture4/src/Casting.java" title="Casting.java" tooltip="Lecture4/src/Casting.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/Casting.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="240" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="if_.java" partName="if_.java" path="/home/student/workspace/Lecture4/src/if_.java" title="if_.java" tooltip="Lecture4/src/if_.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/if_.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="188" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SwitchJava.java" partName="SwitchJava.java" path="/home/student/workspace/Lecture4/src/SwitchJava.java" title="SwitchJava.java" tooltip="Lecture4/src/SwitchJava.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/SwitchJava.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="399" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Month.java" partName="Month.java" path="/home/student/workspace/Lecture4/src/Month.java" title="Month.java" tooltip="Lecture4/src/Month.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/Month.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="494" selectionTopPixel="40"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Day.java" partName="Day.java" path="/home/student/workspace/Lecture4/src/Day.java" title="Day.java" tooltip="Lecture4/src/Day.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture4/src/Day.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="510" selectionOffset="115" selectionTopPixel="25"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserInput.java" partName="UserInput.java" path="/home/student/workspace/lecture5/src/UserInput.java" title="UserInput.java" tooltip="lecture5/src/UserInput.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/UserInput.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="289" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExampleTask.java" partName="ExampleTask.java" path="/home/student/workspace/lecture5/src/ExampleTask.java" title="ExampleTask.java" tooltip="lecture5/src/ExampleTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/ExampleTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="36" selectionOffset="170" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Loop.java" partName="Loop.java" path="/home/student/workspace/lecture5/src/Loop.java" title="Loop.java" tooltip="lecture5/src/Loop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/Loop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="335" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WhileLoop.java" partName="WhileLoop.java" path="/home/student/workspace/lecture5/src/WhileLoop.java" title="WhileLoop.java" tooltip="lecture5/src/WhileLoop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/WhileLoop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="153" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoWhile.java" partName="DoWhile.java" path="/home/student/workspace/lecture5/src/DoWhile.java" title="DoWhile.java" tooltip="lecture5/src/DoWhile.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/DoWhile.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="365" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Break.java" partName="Break.java" path="/home/student/workspace/lecture5/src/Break.java" title="Break.java" tooltip="lecture5/src/Break.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/Break.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="45" selectionOffset="316" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ContinueExample.java" partName="ContinueExample.java" path="/home/student/workspace/lecture5/src/ContinueExample.java" title="ContinueExample.java" tooltip="lecture5/src/ContinueExample.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/ContinueExample.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="48" selectionOffset="162" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoopTask1.java" partName="LoopTask1.java" path="/home/student/workspace/lecture5/src/LoopTask1.java" title="LoopTask1.java" tooltip="lecture5/src/LoopTask1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture5/src/LoopTask1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="226" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="homework1.java" partName="homework1.java" path="/home/student/workspace/MD/src/homework1.java" title="homework1.java" tooltip="MD/src/homework1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MD/src/homework1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="41" selectionOffset="122" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayBasics.java" partName="ArrayBasics.java" path="/home/student/workspace/Lecture6/src/ArrayBasics.java" title="ArrayBasics.java" tooltip="Lecture6/src/ArrayBasics.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayBasics.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="321" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask.java" partName="ArrayTask.java" path="/home/student/workspace/Lecture6/src/ArrayTask.java" title="ArrayTask.java" tooltip="Lecture6/src/ArrayTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask2.java" partName="ArrayTask2.java" path="/home/student/workspace/Lecture6/src/ArrayTask2.java" title="ArrayTask2.java" tooltip="Lecture6/src/ArrayTask2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask2.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask3.java" partName="ArrayTask3.java" path="/home/student/workspace/Lecture6/src/ArrayTask3.java" title="ArrayTask3.java" tooltip="Lecture6/src/ArrayTask3.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask3.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="389" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask4.java" partName="ArrayTask4.java" path="/home/student/workspace/Lecture6/src/ArrayTask4.java" title="ArrayTask4.java" tooltip="Lecture6/src/ArrayTask4.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask4.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="431" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask5.java" partName="ArrayTask5.java" path="/home/student/workspace/Lecture6/src/ArrayTask5.java" title="ArrayTask5.java" tooltip="Lecture6/src/ArrayTask5.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask5.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="782" selectionTopPixel="40"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayTask6.java" partName="ArrayTask6.java" path="/home/student/workspace/Lecture6/src/ArrayTask6.java" title="ArrayTask6.java" tooltip="Lecture6/src/ArrayTask6.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayTask6.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="582" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TwoDimArray.java" partName="TwoDimArray.java" path="/home/student/workspace/Lecture6/src/TwoDimArray.java" title="TwoDimArray.java" tooltip="Lecture6/src/TwoDimArray.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/TwoDimArray.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="173" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiArrayTask1.java" partName="MultiArrayTask1.java" path="/home/student/workspace/Lecture6/src/MultiArrayTask1.java" title="MultiArrayTask1.java" tooltip="Lecture6/src/MultiArrayTask1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/MultiArrayTask1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="394" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayHomework.java" partName="ArrayHomework.java" path="/home/student/workspace/Lecture6/src/ArrayHomework.java" title="ArrayHomework.java" tooltip="Lecture6/src/ArrayHomework.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayHomework.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="418" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayHomework2.java" partName="ArrayHomework2.java" path="/home/student/workspace/Lecture6/src/ArrayHomework2.java" title="ArrayHomework2.java" tooltip="Lecture6/src/ArrayHomework2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayHomework2.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="682" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayValueTask.java" partName="ArrayValueTask.java" path="/home/student/workspace/Lecture6/src/ArrayValueTask.java" title="ArrayValueTask.java" tooltip="Lecture6/src/ArrayValueTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture6/src/ArrayValueTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="136" selectionTopPixel="10"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="App.java" partName="App.java" path="/home/student/workspace/Lecture7/src/App.java" title="App.java" tooltip="Lecture7/src/App.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture7/src/App.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="103" selectionOffset="419" selectionTopPixel="175"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassTask.java" partName="ClassTask.java" path="/home/student/workspace/Lecture7/src/ClassTask.java" title="ClassTask.java" tooltip="Lecture7/src/ClassTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture7/src/ClassTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodTask.java" partName="MethodTask.java" path="/home/student/workspace/Lecture8/src/MethodTask.java" title="MethodTask.java" tooltip="Lecture8/src/MethodTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture8/src/MethodTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="264" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Repeating.java" partName="Repeating.java" path="/home/student/workspace/Lecture8/src/Repeating.java" title="Repeating.java" tooltip="Lecture8/src/Repeating.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture8/src/Repeating.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="312" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Car2.java" partName="Car2.java" path="/home/student/workspace/Lecture8/src/Car2.java" title="Car2.java" tooltip="Lecture8/src/Car2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture8/src/Car2.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="262" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="variableScope.java" partName="variableScope.java" path="/home/student/workspace/VariableScope/src/variableScope.java" title="variableScope.java" tooltip="VariableScope/src/variableScope.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/VariableScope/src/variableScope.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="142" selectionOffset="57" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Book.java" partName="Book.java" path="/home/student/workspace/VariableScope/src/Book.java" title="Book.java" tooltip="VariableScope/src/Book.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/VariableScope/src/Book.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="1" selectionOffset="363" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassNew.java" partName="ClassNew.java" path="/home/student/workspace/githubtest/src/ClassNew.java" title="ClassNew.java" tooltip="githubtest/src/ClassNew.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/githubtest/src/ClassNew.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="215" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StaticMethodTask.java" partName="StaticMethodTask.java" path="/home/student/workspace/Lecture12/src/StaticMethodTask.java" title="StaticMethodTask.java" tooltip="Lecture12/src/StaticMethodTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture12/src/StaticMethodTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="354" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StaticExample.java" partName="StaticExample.java" path="/home/student/workspace/Lecture12/src/StaticExample.java" title="StaticExample.java" tooltip="Lecture12/src/StaticExample.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture12/src/StaticExample.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppPoint.java" partName="AppPoint.java" path="/home/student/workspace/Lecture12/src/AppPoint.java" title="AppPoint.java" tooltip="Lecture12/src/AppPoint.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture12/src/AppPoint.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="354" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Practice.java" partName="Practice.java" path="/home/student/workspace/Lecture13/src/com/accenture/lecture13/Practice.java" title="Practice.java" tooltip="Lecture13/src/com/accenture/lecture13/Practice.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture13/src/com/accenture/lecture13/Practice.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="771" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Starter.java" partName="Starter.java" path="/home/student/workspace/listandarrays/src/Starter.java" title="Starter.java" tooltip="listandarrays/src/Starter.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/listandarrays/src/Starter.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="32" selectionOffset="522" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="/home/student/workspace/listandarrays/src/User.java" title="User.java" tooltip="listandarrays/src/User.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/listandarrays/src/User.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="393" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weather.java" partName="Weather.java" path="/home/student/workspace/Lecture13/src/com/accenture/lecture15/Weather.java" title="Weather.java" tooltip="Lecture13/src/com/accenture/lecture15/Weather.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Lecture13/src/com/accenture/lecture15/Weather.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="446" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -270,9 +75,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="485" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -453,7 +255,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.23096287" ratioLeft="367" ratioRight="1222" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7493671" ratioLeft="592" ratioRight="198" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.764" ratioLeft="573" ratioRight="177" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -485,160 +287,158 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Lecture13/src/com/accenture/lecture13/Practice.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/listandarrays/src/Starter.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/listandarrays/src/Task.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/listandarrays/src/User.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Lecture13/src/com/accenture/lecture15/ObjectPractice.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Lecture13/src/com/accenture/lecture15/Weather.java"/>
 </editors>
-<item historyLabel="Practice.java" index="0">
-<position info="not_deleted" x="3140" y="28"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1195" y="25"/>
 </item>
-<item historyLabel="Practice.java" index="0">
-<position info="not_deleted" x="2018" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="248" y="0"/>
 </item>
-<item historyLabel="Practice.java" index="0">
-<position info="not_deleted" x="1735" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
 </item>
-<item historyLabel="Practice.java" index="0">
-<position info="not_deleted" x="367" y="6"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="248" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="969" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="96" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="864" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="277" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="296" y="5"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="296" y="6"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="341" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="369" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="864" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="359" y="9"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="864" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="359" y="9"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="369" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="359" y="9"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="864" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="834" y="9"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="810" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="734" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="744" y="3"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="810" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="858" y="0"/>
-</item>
-<item historyLabel="Task.java" index="2">
-<position info="not_deleted" x="144" y="0"/>
-</item>
-<item historyLabel="Starter.java" index="1">
+<item historyLabel="ObjectPractice.java" index="0">
 <position/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="552" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1161" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="662" y="0"/>
 </item>
-<item historyLabel="Task.java" index="2">
-<position info="not_deleted" x="144" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="246"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="728" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="662" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="952" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="246"/>
 </item>
-<item historyLabel="Task.java" index="2">
-<position info="not_deleted" x="91" y="19"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="662" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="952" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="246"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="914" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="509" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="246"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="509" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="509" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1287" y="43"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="509" y="0"/>
+</item>
+<item historyLabel="Weather.java" index="1">
 <position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="543" y="9"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1287" y="43"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="868" y="101"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="863" y="1"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1287" y="43"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="961" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="522" y="32"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Task.java" index="2">
-<position info="not_deleted" x="91" y="19"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1287" y="43"/>
 </item>
-<item historyLabel="User.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="User.java" index="3">
-<position info="not_deleted" x="148" y="0"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
 </item>
-<item historyLabel="User.java" index="3">
-<position info="not_deleted" x="393" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Task.java" index="2">
-<position info="not_deleted" x="91" y="19"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
 </item>
-<item historyLabel="User.java" index="3">
-<position info="not_deleted" x="393" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
 </item>
-<item historyLabel="Starter.java" index="1">
-<position info="not_deleted" x="522" y="32"/>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1334" y="0"/>
 </item>
-<item active="true" historyLabel="User.java" index="3">
-<position info="not_deleted" x="393" y="0"/>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1255" y="20"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1255" y="20"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1288" y="42"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="502" y="0"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="500" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="660" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1237" y="93"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="446" y="0"/>
+</item>
+<item historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1553" y="0"/>
+</item>
+<item historyLabel="Weather.java" index="1">
+<position info="not_deleted" x="446" y="0"/>
+</item>
+<item active="true" historyLabel="ObjectPractice.java" index="0">
+<position info="not_deleted" x="1553" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -657,6 +457,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weather.java" tooltip="Lecture13/src/com/accenture/lecture15/Weather.java">
+<persistable path="/Lecture13/src/com/accenture/lecture15/Weather.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectPractice.java" tooltip="Lecture13/src/com/accenture/lecture15/ObjectPractice.java">
+<persistable path="/Lecture13/src/com/accenture/lecture15/ObjectPractice.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" tooltip="listandarrays/src/User.java">
 <persistable path="/listandarrays/src/User.java"/>
 </file>
@@ -689,18 +495,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="variableScope.java" tooltip="VariableScope/src/variableScope.java">
 <persistable path="/VariableScope/src/variableScope.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Car2.java" tooltip="Lecture8/src/Car2.java">
-<persistable path="/Lecture8/src/Car2.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodTask2.java" tooltip="Lecture8/src/MethodTask2.java">
-<persistable path="/Lecture8/src/MethodTask2.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Repeating.java" tooltip="Lecture8/src/Repeating.java">
-<persistable path="/Lecture8/src/Repeating.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Methods.java" tooltip="Lecture8/src/Methods.java">
-<persistable path="/Lecture8/src/Methods.java"/>
 </file>
 </mruList>
 </workbench>
